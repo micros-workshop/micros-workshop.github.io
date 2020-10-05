@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MICROS Workshop 2021
 
 You can use the [editor on GitHub](https://github.com/micros2021/micros2021-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
