@@ -1,3 +1,8 @@
+---
+layout: page
+title: Speakers
+---
+
 # Keynote speakers
 
 ## First speaker
