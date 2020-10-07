@@ -1,3 +1,8 @@
+---
+title: Speakers
+menus: header
+---
+
 # Keynote speakers
 
 ## First speaker
