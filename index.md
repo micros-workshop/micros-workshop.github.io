@@ -1,6 +1,15 @@
 ## MICROS Workshop 2021
 
-The _Mixed-Initiative ConveRsatiOnal Systems_ workshop (MICROS@ECIR2021)  ...
+The increasing popularity of personal assistant systems as well as smartphones has drawn attention to conversational systems. Thanks to the recent advances in automatic speech recognition and voice generation, conversational systems are largely employed in smart-home devices (e.g., Google Home, Amazon Alexa) as well as wearable devices (e.g., Apple Siri, Microsoft Cortana). 
+
+The _Mixed-Initiative ConveRsatiOnal Systems_ workshop (MICROS@ECIR2021) aims at investigating and collecting novel ideas and contributions in the field of conversational systems. These systems provide a conversational interface for different tasks ranging from finding online information to performing e-commerce transactions. 
+
+The first edition of MICROS aims to bring together researchers from academia and industry to discuss the challenges and future of conversational systems. The workshop will have a particular focus on mixed-initiative conversational systems. These proactive systems do not simply propose answers but also provide possible interpretations for ambiguous and vague requests, improving the user's information-seeking experience.
+
+We invite people working on conversational search as well as interactive recommendation to send us their position and research papers. Novel approaches for conversational information seeking that are based on natural language processing and artificial intelligence are also welcome. 
+We solicit the submission of works on novel approaches for conversational search, recommendation, evaluation techniques, data creation and curation, as well as domain specific applications for conversational systems. The workshop will prioritize innovative and impactful contributions, all the accepted papers will be presented as contribution talks and have the opportunity to be published in the CEUR proceedings. 
+The workshop will also have keynote talks by experienced researchers and a panel discussion to share insights about conversational systems. 
+
 
 ### Organizers
 
@@ -65,6 +74,7 @@ The workshop topics include but are not limited to:
 - Evangelos Kanoulas, University of Amsterdam, NL
 - Diego Marcheggiani, Amazon Barcelona, ES
 - Franco Maria Nardini, ISTI-CNR Pisa, IT
+- Gustavo	Pehna, TU Delf, NL
 - Raffaele Perego, ISTI-CNR Pisa, IT
 - Pengjie Ren, University of Amsterdam, NL
 - Rishiraj Saha Roy, MPII Saarbruecken, DE
@@ -73,6 +83,7 @@ The workshop topics include but are not limited to:
 - Damiano Spina, RMIT Melbourne, AU
 - Nicola Tonellotto, University of Pisa, IT
 - Johanne Trippas, University of Melbourne, AU
+- Svitlana Vakulenko, University of Amsterdam, NL
 - Hamed Zamani, UMass Amherst, USA
 - Jie Zou, University of Amsterdam, NL
 
