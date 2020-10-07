@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 
 title: MICROS Workshop 2021
 description: Mixed-Initiative ConveRsatiOnal Systems workshop (MICROS@ECIR2021)
+
+site.pages:
