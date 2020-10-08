@@ -9,10 +9,10 @@ The increasing popularity of personal assistant systems as well as smartphones h
 
 The _Mixed-Initiative ConveRsatiOnal Systems_ workshop (MICROS@ECIR2021) aims at investigating and collecting novel ideas and contributions in the field of conversational systems. These systems provide a conversational interface for different tasks ranging from finding online information to performing e-commerce transactions. 
 
-The first edition of MICROS aims to bring together researchers from academia and industry to discuss the challenges and future of conversational systems. The workshop will have a particular focus on mixed-initiative conversational systems. These proactive systems do not simply propose answers but also provide possible interpretations for ambiguous and vague requests, improving the user's information-seeking experience.
+The first edition of MICROS aims to bring together researchers from academia and industry to discuss the challenges and future of conversational systems. The workshop will have a particular focus on mixed-initiative conversational systems. These proactive systems do not simply retrieve answers but also provide possible interpretations for ambiguous and vague requests, improving the user's information-seeking experience.
 
 We invite people working on conversational search as well as interactive recommendation to send us their position and research papers. Novel approaches for conversational information seeking that are based on natural language processing and artificial intelligence are also welcome. 
-We solicit the submission of works on novel approaches for conversational search, recommendation, evaluation techniques, data creation and curation, as well as domain specific applications for conversational systems. The workshop will prioritize innovative and impactful contributions, all the accepted papers will be presented as contribution talks and have the opportunity to be published in the CEUR proceedings. 
+We solicit the submission of works on novel approaches for conversational search, recommendation, evaluation techniques, data creation and curation, as well as domain specific applications for conversational systems. The workshop will prioritize innovative and impactful contributions. All the accepted papers will be presented as contribution talks and have the opportunity to be published in the CEUR proceedings. 
 The workshop will also have keynote talks by experienced researchers and a panel discussion to share insights about conversational systems. 
 
 
