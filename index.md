@@ -1,6 +1,7 @@
 ---
-title: Homepage
-menus: header
+  header:
+    title: Home
+    weight: 1
 ---
 
 ## Overview
