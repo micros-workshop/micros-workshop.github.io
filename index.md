@@ -71,6 +71,7 @@ The workshop topics include but are not limited to:
 
 - Avishek Anand, L3S Research Center Hannover, DE
 - Mikhail Burtsev, MIPT Moscow, RU
+- Manajit Chakraborty, University of Lugano, CH
 - Aleksandr Chuklin, Google Zurich, CH
 - Fabio Crestani, University of Lugano, CH
 - Jeff Dalton, University of Glasgow, UK
@@ -83,12 +84,12 @@ The workshop topics include but are not limited to:
 - Gustavo	Pehna, TU Delf, NL
 - Raffaele Perego, ISTI-CNR Pisa, IT
 - Pengjie Ren, University of Amsterdam, NL
+- Estaban Andres Rissola, University of Lugano, CH
 - Rishiraj Saha Roy, MPII Saarbruecken, DE
 - Mark Sanderson, RMIT Melbourne, AU
 - Fabrizio Silvestri, Facebook London, UK
 - Damiano Spina, RMIT Melbourne, AU
 - Nicola Tonellotto, University of Pisa, IT
 - Johanne Trippas, University of Melbourne, AU
-- Svitlana Vakulenko, University of Amsterdam, NL
 - Hamed Zamani, UMass Amherst, USA
 - Jie Zou, University of Amsterdam, NL
