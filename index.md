@@ -79,6 +79,7 @@ The workshop topics include but are not limited to:
 - Helia Hashemi, UMass Amherst, USA
 - Kai Hui, Amazon Alexa Search, DE
 - Evangelos Kanoulas, University of Amsterdam, NL
+- Sean MacAvaney, Georgetown University, USA
 - Diego Marcheggiani, Amazon Barcelona, ES
 - Franco Maria Nardini, ISTI-CNR Pisa, IT
 - Gustavo	Pehna, TU Delf, NL
