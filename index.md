@@ -12,8 +12,7 @@ The _Mixed-Initiative ConveRsatiOnal Systems_ workshop (MICROS@ECIR2021) aims at
 
 The first edition of MICROS aims to bring together researchers from academia and industry to discuss the challenges and future of conversational systems. The workshop will have a particular focus on mixed-initiative conversational systems. These proactive systems do not simply propose answers but also provide possible interpretations for ambiguous and vague requests, improving the user's information-seeking experience.
 
-We invite people working on conversational search as well as interactive recommendation to send us their position and research papers. Novel approaches for conversational information seeking that are based on natural language processing and artificial intelligence are also welcome. 
-We solicit the submission of works on novel approaches for conversational search, recommendation, evaluation techniques, data creation and curation, as well as domain specific applications for conversational systems. The workshop will prioritize innovative and impactful contributions, all the accepted papers will be presented as contribution talks and have the opportunity to be published in the CEUR proceedings. 
+We invite people working on conversational search as well as interactive recommendation to send us their position and research papers. Novel approaches for conversational information seeking that are based on natural language processing and artificial intelligence are also welcome. We encourage submissions on  approaches for conversational search, recommendation, evaluation techniques, data creation and curation, as well as domain specific applications for conversational systems. The workshop will prioritize innovative and impactful contributions, all the accepted papers will be presented as contribution talks and have the opportunity to be published in the CEUR proceedings. 
 The workshop will also have keynote talks by experienced researchers and a panel discussion to share insights about conversational systems. 
 
 
@@ -34,11 +33,13 @@ Time zone: Anywhere on Earth (AoE)
 
 ### Submissions
 
-Papers must be submitted to Easychair by **December 20th, 2020 (23:59 AoE)**. Submitted papers should be between 4 and 6 pages long, in the Springer LNCS format. The workshop has a single-blind  reviewing process, so the submissions must include the name and affiliations of authors.
+Papers must be submitted to Easychair by **December 20th, 2020 (23:59 AoE)**. Submitted papers should be in the Springer LNCS format. The workshop has a **single-blind** reviewing process, so the submissions must include the name and affiliations of authors.
  
+We welcome submissions on novel, original, and unpublished work. Research and position papers are up to 8-10 pages, plus references. We also invite extended abstracts can be up to 4-6 pages, plus references.
+
 Submission Page: [EasyChair](https://easychair.org/conferences/?conf=micros2021)
 
-Accepted papers will be presented at the workshop, plus we encourage the authors to publish their contribution in the CEUR proceedings. Moreover, the workshop results will be published as a summary paper in the proceedings of ECIR 2021 conference. 
+Accepted papers will be presented at the workshop, plus we encourage the authors to publish their contribution in the CEUR proceedings. The workshop results will be published as a summary paper in the proceedings of ECIR 2021 conference. 
 
 ### Topics
 The workshop topics include but are not limited to:
