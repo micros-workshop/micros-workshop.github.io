@@ -35,7 +35,7 @@ Time zone: Anywhere on Earth (AoE)
 
 Papers must be submitted to Easychair by **December 20th, 2020 (23:59 AoE)**. Submitted papers should be in the Springer LNCS format. The workshop has a **single-blind** reviewing process, so the submissions must include the name and affiliations of authors.
  
-We welcome submissions on novel, original, and unpublished work. Research and position papers are up to 8-10 pages, plus references. We also invite extended abstracts can be up to 4-6 pages, plus references.
+We welcome submissions on novel, original, and unpublished work. Research and position papers are up to 8-10 pages, plus references. We also invite extended abstracts for summarizing published results. The extended abstracts can be up to 4-6 pages, plus references.
 
 Submission Page: [EasyChair](https://easychair.org/conferences/?conf=micros2021)
 
