@@ -8,7 +8,7 @@
 
 The increasing popularity of personal assistant systems as well as smartphones has drawn attention to conversational systems. Thanks to the recent advances in automatic speech recognition and voice generation, conversational systems are largely employed in smart-home devices (e.g., Google Home, Amazon Alexa) as well as wearable devices (e.g., Apple Siri, Microsoft Cortana). 
 
-The 1st Edition of the workshop _Mixed-Initiative ConveRsatiOnal Systems_ (MICROS@ECIR2021) aims at investigating and collecting novel ideas and contributions in the field of conversational systems. These systems provide a conversational interface for different tasks ranging from seeking information to performing e-commerce transactions. 
+The 1st Edition of the Workshop on _Mixed-Initiative ConveRsatiOnal Systems_ (MICROS@ECIR2021) aims at investigating and collecting novel ideas and contributions in the field of conversational systems. These systems provide a conversational interface for different tasks ranging from seeking information to performing e-commerce transactions. 
 
 MICROS aims to bring together researchers from academia and industry to discuss the challenges and future of conversational systems. The workshop will have a particular focus on mixed-initiative conversational systems. These proactive systems do not simply propose answers but also provide possible interpretations for ambiguous and vague requests, improving the user's information-seeking experience.
 
