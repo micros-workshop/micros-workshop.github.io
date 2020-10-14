@@ -36,7 +36,7 @@ Time zone: Anywhere on Earth (AoE)
 
 Papers must be submitted to Easychair by **December 20th, 2020 (23:59 AoE)**. Submitted papers should be between 4 and 6 pages long, in the Springer LNCS format. The workshop has a single-blind  reviewing process, so the submissions must include the name and affiliations of authors.
  
-Submission page: [coming soon]
+Submission Page: [https://easychair.org/conferences/?conf=micros2021] (EasyChair Submission)
 
 Accepted papers will be presented at the workshop, plus we encourage the authors to publish their contribution in the CEUR proceedings. Moreover, the workshop results will be published as a summary paper in the proceedings of ECIR 2021 conference. 
 
