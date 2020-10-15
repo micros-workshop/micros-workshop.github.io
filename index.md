@@ -21,7 +21,7 @@ The workshop will also have keynote talks by experienced researchers and a panel
 - Ida Mele (IASI-CNR Rome, IT)
 - Cristina Ioana Muntean (ISTI-CNR Pisa, IT)
 - Mohammad Aliannejadi (University of Amsterdam, NL)
-- Nikos Voskarides (University of Amsterdam, NL)
+- Nikos Voskarides (University of Amsterdam, NL) 
 
 ### Important Dates
 
