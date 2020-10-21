@@ -6,7 +6,7 @@
 
 ## Overview
 
-The increasing popularity of personal assistant systems as well as smartphones has drawn attention to conversational systems. Thanks to the recent advances in automatic speech recognition and voice generation, conversational systems are largely employed in smart-home devices (e.g., Google Home, Amazon Alexa) as well as wearable devices (e.g., Apple Siri, Microsoft Cortana). 
+The increasing popularity of personal assistant systems and smartphones has drawn attention to conversational systems. Thanks to the recent advances in automatic speech recognition and voice generation, conversational systems are largely employed in smart-home devices (e.g., Google Home, Amazon Alexa) as well as wearable devices (e.g., Apple Siri, Microsoft Cortana). 
 
 The 1st Edition of the Workshop on _Mixed-Initiative ConveRsatiOnal Systems_ (MICROS@ECIR2021) aims at investigating and collecting novel ideas and contributions in the field of conversational systems. These systems provide a conversational interface for different tasks ranging from seeking information to performing e-commerce transactions. 
 
@@ -27,19 +27,19 @@ The workshop will also have keynote talks by experienced researchers and a panel
 
 Time zone: Anywhere on Earth (AoE)
 
-- Submission deadline: **December 20th, 2020**
-- Notification:	February 5th, 2021
+- Submission deadline: **December 20, 2020**
+- Notification:	February 5, 2021
 - Workshop day:	[coming soon]
 
 ### Submissions
 
-Papers must be submitted to Easychair by **December 20th, 2020 (23:59 AoE)**. Submitted papers should be in the Springer LNCS format. The workshop has a **single-blind** reviewing process, so the submissions must include the name and affiliations of authors.
+Papers must be submitted to Easychair by **December 20, 2020 (23:59 AoE)**. Submitted papers should be in the Springer LNCS format. The workshop has a **single-blind** reviewing process, so the submissions must include the name and affiliations of authors.
  
-We welcome submissions on novel, original, and unpublished work. Research and position papers are up to 10 pages, plus references. We also invite extended abstracts for summarizing published results. The extended abstracts can be up to 5 pages, plus references.
+We welcome submissions on novel, original, and unpublished work (pre-prints submitted to ArXiv are eligible). Research and position papers are up to 10 pages, plus references. We also invite extended abstracts for summarizing published results. The extended abstracts can be up to 5 pages, plus references.
 
 Submission Page: [EasyChair](https://easychair.org/conferences/?conf=micros2021)
 
-Accepted papers will be presented at the workshop, plus we encourage the authors to publish their contribution in the CEUR proceedings. The workshop results will be published as a summary paper in the proceedings of ECIR 2021 conference. 
+Accepted papers will be presented at the workshop, plus we encourage the authors to publish their unpublished contributions in an open-access post-proceedings volume of CEUR Workshop Proceedings (http://ceur-ws.org/). The workshop results will be published as a summary paper in the proceedings of ECIR 2021 conference, too. 
 
 ### Topics
 The workshop topics include but are not limited to:
@@ -66,7 +66,7 @@ The workshop topics include but are not limited to:
 - Specialized applications and use  cases for conversational search (e.g., health, finance, travel)
 - Knowledge graph presentation in conversational search
 - Data creation and curation for conversational search
-- Evaluation metrics for effectiveness, engagement, satisfaction of conversational systems
+- Evaluation metrics for effectiveness, engagement, user satisfaction of conversational systems
 
 ### Program committee
 
