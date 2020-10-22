@@ -35,7 +35,7 @@ Time zone: Anywhere on Earth (AoE)
 
 ### Submissions
 
-Papers must be submitted by **December 20, 2020 (23:59 AoE)** via Easychair. Submitted papers should be in the Springer LNCS format. The workshop has a **single-blind** reviewing process, so the submissions can include the name and affiliations of authors.
+Papers must be submitted by **December 20, 2020 (23:59 AoE)** via EasyChair. Submitted papers should be in the Springer LNCS format. The workshop has a **single-blind** reviewing process, so the submissions can include the name and affiliations of authors.
  
 Submission Page: [EasyChair](https://easychair.org/conferences/?conf=micros2021)
 
