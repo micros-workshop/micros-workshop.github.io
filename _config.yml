@@ -6,8 +6,3 @@ description: Workshop on Mixed-Initiative ConveRsatiOnal Systems (MICROS@ECIR202
 
 plugins:
 - jekyll-menus
-
-analytics:
-  	provider: "google-universal"
-  	google:
- 	  tracking_id: "G-TYE85KGQSC"
