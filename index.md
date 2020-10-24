@@ -72,7 +72,7 @@ The workshop topics include but are not limited to:
 - Data creation and curation for conversational search
 - Evaluation metrics for effectiveness, engagement, user satisfaction of conversational systems
 
-### Program committee
+### Program committee (tentative)
 
 - Avishek Anand, L3S Research Center Hannover, DE
 - Mikhail Burtsev, MIPT Moscow, RU
