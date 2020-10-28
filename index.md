@@ -17,6 +17,7 @@ MICROS aims to bring together researchers from academia and industry to discuss 
 We invite people working on conversational search as well as interactive recommendation to send us their position and research papers. Novel approaches for conversational information seeking that are based on natural language processing and artificial intelligence are also welcome. We encourage submissions on  approaches for conversational search, recommendation, evaluation techniques, data creation and curation, as well as domain-specific applications for conversational systems. The workshop will prioritize innovative and impactful contributions, all the accepted papers will be presented as contribution talks and will have the opportunity to be published in the CEUR proceedings. 
 The workshop will also have keynote talks by experienced researchers and a panel discussion to share insights about conversational systems. 
 
+Please visit also the [Call for Paper] (https://easychair.org/cfp/micros2021)
 
 ### Organizers
 
@@ -72,15 +73,12 @@ The workshop topics include but are not limited to:
 - Data creation and curation for conversational search
 - Evaluation metrics for effectiveness, engagement, user satisfaction of conversational systems
 
-### Program committee (tentative)
+### Program committee
 
 - Avishek Anand, L3S Research Center Hannover, DE
 - Mikhail Burtsev, MIPT Moscow, RU
 - Manajit Chakraborty, University of Lugano, CH
 - Aleksandr Chuklin, Google Zurich, CH
-- Fabio Crestani, University of Lugano, CH
-- Jeff Dalton, University of Glasgow, UK
-- Maarten de Rijke, University of Amsterdam, NL
 - Helia Hashemi, UMass Amherst, USA
 - Kai Hui, Amazon Alexa Search, DE
 - Evangelos Kanoulas, University of Amsterdam, NL
