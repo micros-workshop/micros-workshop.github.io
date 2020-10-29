@@ -34,6 +34,8 @@ The workshop will also have keynote talks by experienced researchers and a panel
 
 Please visit also the [Call for Paper](https://easychair.org/cfp/micros2021)
 
+Follow us on Twitter: @micros2021
+
 ### Organizers
 
 - Ida Mele (IASI-CNR Rome, IT)
