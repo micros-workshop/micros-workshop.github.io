@@ -2,9 +2,11 @@
   header:
     title: Home
     weight: 1
-    
-    
-  <!-- Global site tag (gtag.js) - Google Analytics -->
+---
+
+<!--html_preserve-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-1Q1WPCTYTY"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -13,8 +15,9 @@
 
     gtag('config', 'G-1Q1WPCTYTY');
   </script>
-    
----
+
+<!--/html_preserve-->
+
 
 <IMG SRC="MICROS_logo.jpg" ALIGN="right" width="300"/>
 
@@ -109,6 +112,3 @@ The workshop topics include but are not limited to:
 - Johanne Trippas, University of Melbourne, AU
 - Hamed Zamani, UMass Amherst, USA
 - Jie Zou, University of Amsterdam, NL
-
-
-
