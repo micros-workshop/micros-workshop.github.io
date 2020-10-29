@@ -3,6 +3,17 @@
     title: Home
     weight: 1
     
+    
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1Q1WPCTYTY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-1Q1WPCTYTY');
+  </script>
+    
 ---
 
 <IMG SRC="MICROS_logo.jpg" ALIGN="right" width="300"/>
@@ -99,14 +110,5 @@ The workshop topics include but are not limited to:
 - Hamed Zamani, UMass Amherst, USA
 - Jie Zou, University of Amsterdam, NL
 
-<meta name="google-site-verification" content="cKpp7556MedZD76Bcsn0u8kQMAVB_LG_abgFPep4HOY" />
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1Q1WPCTYTY"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
 
-    gtag('config', 'G-1Q1WPCTYTY');
-  </script>
