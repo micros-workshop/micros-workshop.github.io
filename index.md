@@ -3,16 +3,6 @@
     title: Home
     weight: 1
     
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1Q1WPCTYTY"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-1Q1WPCTYTY');
-  </script>
-
 ---
 
 <IMG SRC="MICROS_logo.jpg" ALIGN="right" width="300"/>
@@ -100,8 +90,6 @@ The workshop topics include but are not limited to:
 - Raffaele Perego, ISTI-CNR Pisa, IT
 - Pengjie Ren, University of Amsterdam, NL
 - Estaban Andres Rissola, University of Lugano, CH
-
-<meta name="google-site-verification" content="cKpp7556MedZD76Bcsn0u8kQMAVB_LG_abgFPep4HOY" />
 - Rishiraj Saha Roy, MPII Saarbruecken, DE
 - Mark Sanderson, RMIT Melbourne, AU
 - Fabrizio Silvestri, Facebook London, UK
@@ -110,3 +98,15 @@ The workshop topics include but are not limited to:
 - Johanne Trippas, University of Melbourne, AU
 - Hamed Zamani, UMass Amherst, USA
 - Jie Zou, University of Amsterdam, NL
+
+<meta name="google-site-verification" content="cKpp7556MedZD76Bcsn0u8kQMAVB_LG_abgFPep4HOY" />
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1Q1WPCTYTY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-1Q1WPCTYTY');
+  </script>
