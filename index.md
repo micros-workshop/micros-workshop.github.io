@@ -89,6 +89,8 @@ The workshop topics include but are not limited to:
 - Raffaele Perego, ISTI-CNR Pisa, IT
 - Pengjie Ren, University of Amsterdam, NL
 - Estaban Andres Rissola, University of Lugano, CH
+
+<meta name="google-site-verification" content="cKpp7556MedZD76Bcsn0u8kQMAVB_LG_abgFPep4HOY" />
 - Rishiraj Saha Roy, MPII Saarbruecken, DE
 - Mark Sanderson, RMIT Melbourne, AU
 - Fabrizio Silvestri, Facebook London, UK
