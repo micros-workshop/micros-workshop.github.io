@@ -47,13 +47,13 @@ Follow us on Twitter: [@micros2021](https://twitter.com/micros2021)
 
 Time zone: Anywhere on Earth (AoE)
 
-- Submission deadline: ~~December 20, 2020~~ **[EXTENDED] January 22, 2020**
+- Submission deadline: ~~December 20, 2020~~ **[EXTENDED] January 22, 2021**
 - Notification:	February 5, 2021
 - Workshop day:	[coming soon]
 
 ### Submissions
 
-Papers must be submitted by **January 22, 2020 (23:59 AoE)** via EasyChair. Submitted papers should be in the Springer LNCS format. The workshop has a **single-blind** reviewing process, so the submissions can include the name and affiliations of authors.
+Papers must be submitted by **January 22, 2021 (23:59 AoE)** via EasyChair. Submitted papers should be in the Springer LNCS format. The workshop has a **single-blind** reviewing process, so the submissions can include the name and affiliations of authors.
  
 Submission Page: [EasyChair](https://easychair.org/conferences/?conf=micros2021)
 
