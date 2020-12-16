@@ -49,7 +49,7 @@ Time zone: Anywhere on Earth (AoE)
 
 - Submission deadline: ~~December 20, 2020~~ **[EXTENDED] January 22, 2021**
 - Notification:	February 5, 2021
-- Workshop day:	[coming soon]
+- Workshop day:	April 1, 2021
 
 ### Submissions
 
