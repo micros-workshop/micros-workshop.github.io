@@ -54,14 +54,17 @@ Time zone: Anywhere on Earth (AoE)
 
 ### [NEW] Registration information
 
-Registration: The authors of workshop papers can use the "Free registration (0 EUR registration fee)" for attending ECIR 2021.
+Registration: The authors of **workshop papers** can use the **"Free registration (0 EUR registration fee)"** for attending ECIR 2021.
 
 ECIR instructions for registrations are [here](https://www.ecir2021.eu/registration/) 
-The registration form for you to fill in is [here] (https://bit.ly/3oZO41I)
+
+The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 
 **Free registrations close on March 25, 2021.** 
 
-**Very important:** Please follow ECIR instruction carefully when you register. Note that **one registration (paid or free) is required for participating in ECIR 2021, so free registration is not the same as no registration.** Also, notice that in case you have also a non-workshop paper, and no other co-authors have registered with a paid registration for it, you'll have to do a paid registration for that paper by Feb. 5, 2021.
+**Very important:** Please follow ECIR instruction carefully when you register. Note that **one registration (paid or free) is required for participating in ECIR 2021, so free registration is not the same as no registration.** 
+
+Notice that in case you have also a non-workshop paper, and no other co-authors have registered with a paid registration for it, you'll have to register with a  **paid registration for that paper by Feb. 5, 2021**.
 
 
 
