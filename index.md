@@ -48,8 +48,22 @@ Follow us on Twitter: [@micros2021](https://twitter.com/micros2021)
 Time zone: Anywhere on Earth (AoE)
 
 - Submission deadline: ~~December 20, 2020~~ **[EXTENDED] January 22, 2021**
-- Notification:	February 5, 2021
+- Notification:	~~February 5, 2021~~ February 15, 2021
+- ECIR (free) registration deadline: March 25, 2021
 - Workshop day:	April 1, 2021
+
+### [NEW] Registration information
+
+Registration: The authors of workshop papers can use the "Free registration (0 EUR registration fee)" for attending ECIR 2021.
+
+ECIR instructions for registrations are [here](https://www.ecir2021.eu/registration/) 
+The registration form for you to fill in is [here] (https://bit.ly/3oZO41I)
+
+**Free registrations close on March 25, 2021.** 
+
+**Very important:** Please follow ECIR instruction carefully when you register. Note that **one registration (paid or free) is required for participating in ECIR 2021, so free registration is not the same as no registration.** Also, notice that in case you have also a non-workshop paper, and no other co-authors have registered with a paid registration for it, you'll have to do a paid registration for that paper by Feb. 5, 2021.
+
+
 
 ### Submissions
 
