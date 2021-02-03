@@ -48,8 +48,8 @@ Follow us on Twitter: [@micros2021](https://twitter.com/micros2021)
 Time zone: Anywhere on Earth (AoE)
 
 - Submission deadline: ~~December 20, 2020~~ **[EXTENDED] January 22, 2021**
-- Notification:	~~February 5, 2021~~  **[EXTENDED] February 15, 2021 **
-- ECIR (free) registration deadline: March 25, 2021 -- Authors of workshop papers can use a free registration (see below)
+- Notification:	~~February 5, 2021~~ [EXTENDED] February 15, 2021
+- ECIR (free) registration deadline: March 25, 2021 -- Authors of workshop papers can use a free registration (see below) --
 - Workshop day:	April 1, 2021
 
 ### [NEW] Registration information
