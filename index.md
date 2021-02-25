@@ -87,7 +87,7 @@ The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 - Nicholas Belkin _(Rutgers University, USA)_
 - Claudia Hauff _(Delft University of Technology, NL)_ 
 - Julia Kiseleva _(Microsoft Research, Seattle, USA)_ -- Panel moderator
-- Jian-Yun Nie _(University of Montreal, CA)_
+- Jian-Yun Nie _(University of Montreal, Canada)_
 - Filip Radlinski _(Google Research, London, UK)_
 - Hamed Zamani _(University of Massachusetts Amherst, USA)_
 
