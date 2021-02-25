@@ -67,6 +67,33 @@ The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 **Very important:** Notice that in case you have also a **non-workshop paper**, and no other co-authors have registered with a paid registration for it, you'll have to register with a **paid registration for that paper by Feb. 5, 2021**.
 
 
+### Accepted Papers
+- Tom Lotze, Stefan Klut, Mohammad Aliannejadi and Evangelos Kanoulas. _"Ranking Clarifying Questions Based on Predicted User Engagement"_
+
+- Maddalen Lopez de Lacalle, Xabier Saralegi and Inhar Lopez. _"NLU by Cross-lingual Transfer Learning and Minimal Annotation Effort: The Case of Basque"_
+
+- Abhishek Kaushik and Gareth Jones. _"A Conceptual Framework for Implicit Evaluation of Conversational Search Interfaces"_
+
+- Nikolaos Kondylidis, Jie Zou and Evangelos Kanoulas. _"Category Aware Explainable Conversational Recommendation for Cold-Start Setting"_
+
+**The final version of accepted papers will be available on this website before the workshop.**
+
+### Panelists 
+- **Nicholas Belkin** _(Rutgers University, USA)_
+- **Claudia Hauff** _(Delft University of Technology, NL)_ 
+- Julia Kiseleva _(Microsoft Research, Seattle, USA)_ -- Panel moderator
+- Jian-Yun Nie _(University of Montreal, CA)_
+- Filip Radlinski _(Google Research, London, UK)_
+- Hamed Zamani _(University of Massachusetts Amherst, USA)_
+
+### Keynote Speakers: 
+- Claudia Hauff _(Delft University of Technology, NL)_ [website](https://chauff.github.io/)
+- Jian-Yun Nie _(University of Montreal, Canada)_ [website](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/)
+- Filip Radlinski _(Google Research, London, UK)_ [website](http://www.radlinski.org/)
+
+### Schedule: 
+**Cominig soon**
+
 
 ### Submissions
 
