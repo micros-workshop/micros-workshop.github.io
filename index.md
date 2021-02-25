@@ -36,14 +36,14 @@ Please visit also the [Call for Paper](https://easychair.org/cfp/micros2021)
 
 Follow us on Twitter: [@micros2021](https://twitter.com/micros2021)
 
-## Organizers
+### Organizers
 
 - Ida Mele (IASI-CNR Rome, IT)
 - Cristina Ioana Muntean (ISTI-CNR Pisa, IT)
 - Mohammad Aliannejadi (University of Amsterdam, NL)
 - Nikos Voskarides (University of Amsterdam, NL) 
 
-## Important Dates
+### Important Dates
 
 Time zone: Anywhere on Earth (AoE)
 
@@ -52,7 +52,7 @@ Time zone: Anywhere on Earth (AoE)
 - ECIR (free) registration deadline: March 25, 2021 -- Authors of workshop papers can use a free registration (see below) --
 - Workshop day:	April 1, 2021
 
-## [NEW] Registration information
+### [NEW] Registration information
 
 Registration: The authors of **workshop papers** can use the **"Free registration (0 EUR registration fee)"** for attending ECIR 2021.
 
@@ -78,12 +78,12 @@ The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 
 **The final version of accepted papers will be available on this website before the workshop.**
 
-## Keynote Speakers
-- Claudia Hauff _(Delft University of Technology, NL)_ [website](https://chauff.github.io/)
-- Jian-Yun Nie _(University of Montreal, Canada)_ [website](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/)
-- Filip Radlinski _(Google Research, London, UK)_ [website](http://www.radlinski.org/)
+### Keynote Speakers
+- Claudia Hauff _(Delft University of Technology, NL)_ -- [website](https://chauff.github.io/)
+- Jian-Yun Nie _(University of Montreal, Canada)_ -- [website](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/)
+- Filip Radlinski _(Google Research, London, UK)_ -- [website](http://www.radlinski.org/)
 
-## Panelists 
+### Panelists 
 - Nicholas Belkin _(Rutgers University, USA)_
 - Claudia Hauff _(Delft University of Technology, NL)_ 
 - Julia Kiseleva _(Microsoft Research, Seattle, USA)_ -- Panel moderator
@@ -91,7 +91,7 @@ The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 - Filip Radlinski _(Google Research, London, UK)_
 - Hamed Zamani _(University of Massachusetts Amherst, USA)_
 
-## Schedule: 
+### Schedule
 **Cominig soon**
 
 
@@ -107,7 +107,7 @@ The following paper categories are welcome:
 
 All accepted works will be presented at the workshop. Moreover, the research papers can be included in an open-access post-proceedings volume of CEUR Workshop Proceedings [http://ceur-ws.org/](http://ceur-ws.org/). The workshop results will be published as a summary paper in the proceedings of ECIR 2021 conference, too. 
 
-## Topics
+### Topics
 The workshop topics include but are not limited to:
 
 - Applications of conversational search and recommendation systems
@@ -134,7 +134,7 @@ The workshop topics include but are not limited to:
 - Data creation and curation for conversational search
 - Evaluation metrics for effectiveness, engagement, user satisfaction of conversational systems
 
-## Program committee
+### Program committee
 
 - Avishek Anand, L3S Research Center Hannover, DE
 - Mikhail Burtsev, MIPT Moscow, RU
