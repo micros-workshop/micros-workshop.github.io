@@ -99,7 +99,7 @@ The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 
 ### Schedule
 
-The MICROS program is available [here](program.pdf)
+The MICROS program is available [here](MICROS_Workshop_Program.pdf)
 
 
 ### Submissions
