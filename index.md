@@ -80,6 +80,7 @@ The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 
 ### Keynote Speakers
 - Claudia Hauff _(Delft University of Technology, NL)_ -- [website](https://chauff.github.io/) 
+
   Talk title: _"On the analysis and training of neural IR models in the context of conversational search and recommendation"_ 
 - Jian-Yun Nie _(University of Montreal, Canada)_ -- [website](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/) 
   Talk title: _"Goal-oriented search for dialogue and question answering"_ 
