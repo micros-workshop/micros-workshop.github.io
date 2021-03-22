@@ -68,13 +68,13 @@ The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 
 
 ### Accepted Papers
-- Tom Lotze, Stefan Klut, Mohammad Aliannejadi and Evangelos Kanoulas. _"Ranking Clarifying Questions Based on Predicted User Engagement"_ [PDF](micros2021.github.io/pubs/Lotze_MICROS2021.pdf)
+- Tom Lotze, Stefan Klut, Mohammad Aliannejadi and Evangelos Kanoulas. _"Ranking Clarifying Questions Based on Predicted User Engagement"_ ([download PDF])(pubs/Lotze_MICROS2021.pdf)
 
-- Maddalen Lopez de Lacalle, Xabier Saralegi and Inhar Lopez. _"Reducing annotation effort for Cross-lingual Transfer Learning: The case of NLU for Basque"_ [PDF](micros2021.github.io/pubs/Lopez_MICROS2021.pdf)
+- Maddalen Lopez de Lacalle, Xabier Saralegi and Inhar Lopez. _"Reducing annotation effort for Cross-lingual Transfer Learning: The case of NLU for Basque"_ ([download PDF])(pubs/Lopez_MICROS2021.pdf)
 
-- Abhishek Kaushik and Gareth Jones. _"A Conceptual Framework for Implicit Evaluation of Conversational Search Interfaces"_ [PDF](micros2021.github.io/pubs/Kaushik_MICROS2021.pdf)
+- Abhishek Kaushik and Gareth Jones. _"A Conceptual Framework for Implicit Evaluation of Conversational Search Interfaces"_ ([download PDF])(pubs/Kaushik_MICROS2021.pdf)
 
-- Nikolaos Kondylidis, Jie Zou and Evangelos Kanoulas. _"Category Aware Explainable Conversational Recommendation for Cold-Start Setting"_ [PDF](micros2021.github.io/pubs/Kondylidis_MICROS2021.pdf)
+- Nikolaos Kondylidis, Jie Zou and Evangelos Kanoulas. _"Category Aware Explainable Conversational Recommendation for Cold-Start Setting"_ ([download PDF])(pubs/Kondylidis_MICROS2021.pdf)
 
 **The final version of accepted papers will be available on this website before the workshop.**
 
