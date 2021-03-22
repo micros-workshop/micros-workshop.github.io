@@ -68,20 +68,23 @@ The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 
 
 ### Accepted Papers
-- Tom Lotze, Stefan Klut, Mohammad Aliannejadi and Evangelos Kanoulas. _"Ranking Clarifying Questions Based on Predicted User Engagement"_
+- Tom Lotze, Stefan Klut, Mohammad Aliannejadi and Evangelos Kanoulas. _"Ranking Clarifying Questions Based on Predicted User Engagement"_ [PDF](micros2021.github.io/pubs/Lotze_MICROS2021.pdf)
 
-- Maddalen Lopez de Lacalle, Xabier Saralegi and Inhar Lopez. _"NLU by Cross-lingual Transfer Learning and Minimal Annotation Effort: The Case of Basque"_
+- Maddalen Lopez de Lacalle, Xabier Saralegi and Inhar Lopez. _"Reducing annotation effort for Cross-lingual Transfer Learning: The case of NLU for Basque"_ [PDF](micros2021.github.io/pubs/Lopez_MICROS2021.pdf)
 
-- Abhishek Kaushik and Gareth Jones. _"A Conceptual Framework for Implicit Evaluation of Conversational Search Interfaces"_
+- Abhishek Kaushik and Gareth Jones. _"A Conceptual Framework for Implicit Evaluation of Conversational Search Interfaces"_ [PDF](micros2021.github.io/pubs/Kaushik_MICROS2021.pdf)
 
-- Nikolaos Kondylidis, Jie Zou and Evangelos Kanoulas. _"Category Aware Explainable Conversational Recommendation for Cold-Start Setting"_
+- Nikolaos Kondylidis, Jie Zou and Evangelos Kanoulas. _"Category Aware Explainable Conversational Recommendation for Cold-Start Setting"_ [PDF](micros2021.github.io/pubs/Kondylidis_MICROS2021.pdf)
 
 **The final version of accepted papers will be available on this website before the workshop.**
 
 ### Keynote Speakers
 - Claudia Hauff _(Delft University of Technology, NL)_ -- [website](https://chauff.github.io/)
+  Talk title: _"On the analysis and training of neural IR models in the context of conversational search and recommendation"_
 - Jian-Yun Nie _(University of Montreal, Canada)_ -- [website](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/)
+  Talk title: _"Goal-oriented search for dialogue and question answering"_
 - Filip Radlinski _(Google Research, London, UK)_ -- [website](http://www.radlinski.org/)
+  Talk title: _"Natural language and mixed initiative"_
 
 ### Panelists 
 - Nicholas Belkin _(Rutgers University, USA)_
