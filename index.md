@@ -98,7 +98,8 @@ The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 - Hamed Zamani _(University of Massachusetts Amherst, USA)_
 
 ### Schedule
-**Cominig soon**
+
+The MICROS program is available [here](program.pdf)
 
 
 ### Submissions
