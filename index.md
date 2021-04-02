@@ -89,6 +89,7 @@ The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 - Jian-Yun Nie _(University of Montreal, Canada)_ -- [website](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/) 
 
   Talk title: _"Goal-oriented search for dialogue and question answering"_ 
+  
   Talk slides available [here](pubs/Nie_MICROS-2021.pdf)
   
 - Filip Radlinski _(Google Research, London, UK)_ -- [website](http://www.radlinski.org/) 
