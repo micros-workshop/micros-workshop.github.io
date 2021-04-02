@@ -80,11 +80,14 @@ The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 
 ### Keynote Speakers
 - Claudia Hauff _(Delft University of Technology, NL)_ -- [website](https://chauff.github.io/) 
+  
+  Talk title: _"On the analysis and training of neural IR models in the context of conversational search and recommendation"_   [slides](https://docs.google.com/presentation/d/e/2PACX-1vRT--7x9Vuu3gLY7s2PHWoEXDTGVrUuPi1CelWIx5IC8NagYJsJveYpBXWP2NbY2GNSgb1a_Dh7CP86/pub?start=false&loop=false&delayms=3000&slide=id.g35f391192_00)
 
-  Talk title: _"On the analysis and training of neural IR models in the context of conversational search and recommendation"_ 
+
 - Jian-Yun Nie _(University of Montreal, Canada)_ -- [website](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/) 
 
-  Talk title: _"Goal-oriented search for dialogue and question answering"_ 
+  Talk title: _"Goal-oriented search for dialogue and question answering"_ [slides](pubs/Nie_MICROS-2021.pdf)
+  
 - Filip Radlinski _(Google Research, London, UK)_ -- [website](http://www.radlinski.org/) 
 
   Talk title: _"Natural language and mixed initiative"_
