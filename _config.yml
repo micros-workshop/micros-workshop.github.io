@@ -4,5 +4,7 @@ theme: jekyll-theme-leap-day
 title: MICROS Workshop @ ECIR 2021 
 description: Workshop on Mixed-Initiative ConveRsatiOnal Systems 2021
 
+google_analytics: UA-36357044-1
+
 plugins:
 - jekyll-menus
