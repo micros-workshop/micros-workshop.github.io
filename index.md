@@ -19,40 +19,41 @@
 <!--/html_preserve-->
 
 
-<IMG SRC="MICROS_logo.jpg" ALIGN="right" width="300"/>
+<!-- <IMG SRC="MICROS_logo.jpg" ALIGN="right" width="300"/> -->
 
 ### Overview
 
-The increasing popularity of personal assistant systems and smartphones has drawn attention to conversational systems. Thanks to the recent advances in automatic speech recognition and voice generation, conversational systems are largely employed in smart-home devices (e.g., Google Home, Amazon Alexa) as well as wearable devices (e.g., Apple Siri, Microsoft Cortana, Google Assistant). 
+The _Mixed-Initiative ConveRsatiOnal Systems workshop (MICROS)_ aims at bringing novel ideas and investigating new solutions on conversational assistant systems. The increasing popularity of personal assistant systems, as well as smartphones, has changed the way users access online information, posing new challenges for information seeking and filtering. MICROS will have a particular focus on mixed-initiative conversational systems, namely, systems that can provide answers in a proactive way (e.g., asking for clarification or proposing possible interpretations for ambiguous and vague requests). We will invite people working on conversational systems or interested in the workshop topics to send us their position and research manuscripts.
 
-The 1st Edition of the Workshop on _Mixed-Initiative ConveRsatiOnal Systems_ (MICROS@ECIR2021) aims at investigating and collecting novel ideas and contributions in the field of conversational systems. These systems provide a conversational interface for different tasks ranging from seeking information to performing e-commerce transactions. 
+<!--The increasing popularity of personal assistant systems and smartphones has drawn attention to conversational systems. Thanks to the recent advances in automatic speech recognition and voice generation, conversational systems are largely employed in smart-home devices (e.g., Google Home, Amazon Alexa) as well as wearable devices (e.g., Apple Siri, Microsoft Cortana, Google Assistant). 
+
+The 2nd Edition of the Workshop on _Mixed-Initiative ConveRsatiOnal Systems_ (MICROS@CIKM2022) aims at investigating and collecting novel ideas and contributions in the field of conversational systems. These systems provide a conversational interface for different tasks ranging from seeking information to performing e-commerce transactions. 
 
 MICROS aims to bring together researchers from academia and industry to discuss the challenges and future of conversational systems. The workshop will have a particular focus on mixed-initiative conversational systems. These proactive systems do not simply provide answers but also propose possible interpretations for ambiguous and vague requests, improving the user's information-seeking experience.
 
 We invite people working on conversational search as well as interactive recommendation to send us their position and research papers. Novel approaches for conversational information seeking that are based on natural language processing and artificial intelligence are also welcome. We encourage submissions on  approaches for conversational search, recommendation, evaluation techniques, data creation and curation, as well as domain-specific applications for conversational systems. The workshop will prioritize innovative and impactful contributions, all the accepted papers will be presented as contribution talks and will have the opportunity to be published in the CEUR proceedings. 
-The workshop will also have keynote talks by experienced researchers and a panel discussion to share insights about conversational systems. 
+The workshop will also have keynote talks by experienced researchers and a panel discussion to share insights about conversational systems.  -->
 
-Please visit also the [Call for Paper](https://easychair.org/cfp/micros2021)
+<!-- Please visit also the [Call for Paper](https://easychair.org/cfp/micros2021)
 
-Follow us on Twitter: [@micros2021](https://twitter.com/micros2021)
+Follow us on Twitter: [@micros2021](https://twitter.com/micros2021) -->
 
 ### Organizers
 
 - Ida Mele (IASI-CNR Rome, IT)
 - Cristina Ioana Muntean (ISTI-CNR Pisa, IT)
 - Mohammad Aliannejadi (University of Amsterdam, NL)
-- Nikos Voskarides (University of Amsterdam, NL) 
+- Nikos Voskarides (Amazon, Barcelona, ES) 
 
 ### Important Dates
 
 Time zone: Anywhere on Earth (AoE)
 
-- Submission deadline: ~~December 20, 2020~~ **[EXTENDED] January 22, 2021**
-- Notification:	~~February 5, 2021~~ [EXTENDED] February 15, 2021
-- ECIR (free) registration deadline: March 25, 2021 -- Authors of workshop papers can use a free registration (see below) --
-- Workshop day:	April 1, 2021
+- August 15, 2022: Paper submission deadline
+- September 15, 2022: Paper acceptance notification
+- October 22, 2022: Workshop date
 
-### [NEW] Registration information
+<!-- ### Registration information
 
 Registration: The authors of **workshop papers** can use the **"Free registration (0 EUR registration fee)"** for attending ECIR 2021.
 
@@ -107,19 +108,19 @@ The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 ### Schedule
 
 The MICROS program is available [here](pubs/MICROS_Workshop_Program.pdf)
-
+--> 
 
 ### Submissions
 
-Papers must be submitted by **January 22, 2021 (23:59 AoE)** via EasyChair. Submitted papers should be in the Springer LNCS format. The workshop has a **single-blind** reviewing process, so the submissions can include the name and affiliations of authors.
+Papers must be submitted by **August, 2022 (23:59 AoE)** via EasyChair. Submitted papers should be in the ACM two-column conference format. The workshop has a **single-blind** reviewing process, so the submissions can include the name and affiliations of authors.
  
-Submission Page: [EasyChair](https://easychair.org/conferences/?conf=micros2021)
+Submission Page: Coming soon <!-- [EasyChair](https://easychair.org/conferences/?conf=micros2022) -->
 
 The following paper categories are welcome:
 - research papers on novel, original, and unpublished work (pre-prints submitted to ArXiv are eligible). **Max length: 10 pages, plus references**
-- extended abstracts summarizing published results. **Max length: 5 pages, plus references**
+- extended abstracts summarizing published results or ongoing works/ideas. **Max length: 3 pages, plus references**
 
-All accepted works will be presented at the workshop. Moreover, the research papers can be included in an open-access post-proceedings volume of CEUR Workshop Proceedings [http://ceur-ws.org/](http://ceur-ws.org/). The workshop results will be published as a summary paper in the proceedings of ECIR 2021 conference, too. 
+All accepted papers will be presented at the workshop. Moreover, the authors can decide that their manuscipts will be included in an open-access post-proceedings volume of CEUR Workshop Proceedings [http://ceur-ws.org/](http://ceur-ws.org/). The workshop results will be published as a summary paper in the proceedings of CIKM 2022 conference, too. 
 
 ### Topics
 The workshop topics include but are not limited to:
