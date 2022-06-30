@@ -112,15 +112,15 @@ The MICROS program is available [here](pubs/MICROS_Workshop_Program.pdf)
 
 ### Submissions
 
-Papers must be submitted by **August, 2022 (23:59 AoE)** via EasyChair. Submitted papers should be in the ACM two-column conference format. The workshop has a **single-blind** reviewing process, so the submissions can include the name and affiliations of authors.
+Papers must be submitted by **August 15, 2022 (23:59 AoE)** via EasyChair. Submitted papers should be in the ACM two-column conference format. The workshop has a **single-blind** reviewing process, so the submissions can include the name and affiliations of authors.
  
-Submission Page: Coming soon <!-- [EasyChair](https://easychair.org/conferences/?conf=micros2022) -->
+Submission Page: Coming soon <!-- [EasyChair](https://easychair.org/conferences/?conf=micros-2022) -->
 
 The following paper categories are welcome:
 - research papers on novel, original, and unpublished work (pre-prints submitted to ArXiv are eligible). **Max length: 10 pages, plus references**
 - extended abstracts summarizing published results or ongoing works/ideas. **Max length: 3 pages, plus references**
 
-All accepted papers will be presented at the workshop. Moreover, the authors can decide that their manuscipts will be included in an open-access post-proceedings volume of CEUR Workshop Proceedings [http://ceur-ws.org/](http://ceur-ws.org/). The workshop results will be published as a summary paper in the proceedings of CIKM 2022 conference, too. 
+All accepted papers will be presented at the workshop. 
 
 ### Topics
 The workshop topics include but are not limited to:
@@ -149,7 +149,7 @@ The workshop topics include but are not limited to:
 - Data creation and curation for conversational search
 - Evaluation metrics for effectiveness, engagement, user satisfaction of conversational systems
 
-### Program committee
+### Program committee (to be confirmed)
 
 - Avishek Anand, L3S Research Center Hannover, DE
 - Mikhail Burtsev, MIPT Moscow, RU
@@ -158,7 +158,8 @@ The workshop topics include but are not limited to:
 - Helia Hashemi, UMass Amherst, USA
 - Kai Hui, Amazon Alexa Search, DE
 - Evangelos Kanoulas, University of Amsterdam, NL
-- Sean MacAvaney, Georgetown University, USA
+- Antonis Krasakis, University of Amsterdam, NL
+- Sean MacAvaney, University of Glasgow, UK
 - Diego Marcheggiani, Amazon Barcelona, ES
 - Franco Maria Nardini, ISTI-CNR Pisa, IT
 - Gustavo	Pehna, TU Delf, NL
@@ -167,7 +168,7 @@ The workshop topics include but are not limited to:
 - Estaban Andres Rissola, University of Lugano, CH
 - Rishiraj Saha Roy, MPII Saarbruecken, DE
 - Mark Sanderson, RMIT Melbourne, AU
-- Fabrizio Silvestri, Facebook London, UK
+- Fabrizio Silvestri, Sapienza University of Rome, IT
 - Damiano Spina, RMIT Melbourne, AU
 - Nicola Tonellotto, University of Pisa, IT
 - Johanne Trippas, University of Melbourne, AU
