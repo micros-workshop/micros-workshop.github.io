@@ -51,7 +51,7 @@ Time zone: Anywhere on Earth (AoE)
 
 - August 15, 2022: Paper submission deadline
 - September 15, 2022: Paper acceptance notification
-- October 22, 2022: Workshop date
+- <b>October 21, 2022: Workshop date</b>
 
 <!-- ### Registration information
 
