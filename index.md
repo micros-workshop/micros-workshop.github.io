@@ -34,9 +34,7 @@ MICROS aims to bring together researchers from academia and industry to discuss 
 We invite people working on conversational search as well as interactive recommendation to send us their position and research papers. Novel approaches for conversational information seeking that are based on natural language processing and artificial intelligence are also welcome. We encourage submissions on  approaches for conversational search, recommendation, evaluation techniques, data creation and curation, as well as domain-specific applications for conversational systems. The workshop will prioritize innovative and impactful contributions, all the accepted papers will be presented as contribution talks and will have the opportunity to be published in the CEUR proceedings. 
 The workshop will also have keynote talks by experienced researchers and a panel discussion to share insights about conversational systems.  -->
 
-<!-- Please visit also the [Call for Paper](https://easychair.org/cfp/micros2021)
-
-Follow us on Twitter: [@micros2021](https://twitter.com/micros2021) -->
+Follow us on Twitter: [@microsworkshop](https://twitter.com/microsworkshop)
 
 ### Organizers
 
@@ -78,7 +76,13 @@ The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 - Nikolaos Kondylidis, Jie Zou and Evangelos Kanoulas. _"Category Aware Explainable Conversational Recommendation for Cold-Start Setting"_ -- [download PDF](pubs/Kondylidis_MICROS2021.pdf) --
 
 **The final version of accepted papers will be available on this website before the workshop.**
+--> 
 
+### Keynote Speakers
+
+- Siva Reddy -- [website](https://sivareddy.in)
+
+<!--
 ### Keynote Speakers
 - Claudia Hauff _(Delft University of Technology, NL)_ -- [website](https://chauff.github.io/) 
   
@@ -112,9 +116,10 @@ The MICROS program is available [here](pubs/MICROS_Workshop_Program.pdf)
 
 ### Submissions
 
-Papers must be submitted by **August 15, 2022 (23:59 AoE)** via EasyChair. Submitted papers should be in the ACM two-column conference format. The workshop has a **single-blind** reviewing process, so the submissions can include the name and affiliations of authors.
+Papers must be submitted by **August 15, 2022 (23:59 AoE)** via EasyChair ([Submission Link](https://easychair.org/conferences/?conf=micros2022)).
+
+Submitted papers should be in the ACM two-column conference format. The workshop has a **single-blind** reviewing process, so the submissions can include the name and affiliations of authors.
  
-Submission Page: Coming soon <!-- [EasyChair](https://easychair.org/conferences/?conf=micros-2022) -->
 
 The following paper categories are welcome:
 - research papers on novel, original, and unpublished work (pre-prints submitted to ArXiv are eligible). **Max length: 10 pages, plus references**
@@ -149,28 +154,18 @@ The workshop topics include but are not limited to:
 - Data creation and curation for conversational search
 - Evaluation metrics for effectiveness, engagement, user satisfaction of conversational systems
 
-### Program committee (to be confirmed)
+### Program committee
 
-- Avishek Anand, L3S Research Center Hannover, DE
 - Mikhail Burtsev, MIPT Moscow, RU
-- Manajit Chakraborty, University of Lugano, CH
-- Aleksandr Chuklin, Google Zurich, CH
-- Helia Hashemi, UMass Amherst, USA
 - Kai Hui, Amazon Alexa Search, DE
-- Evangelos Kanoulas, University of Amsterdam, NL
 - Antonis Krasakis, University of Amsterdam, NL
 - Sean MacAvaney, University of Glasgow, UK
-- Diego Marcheggiani, Amazon Barcelona, ES
 - Franco Maria Nardini, ISTI-CNR Pisa, IT
 - Gustavo	Pehna, TU Delf, NL
 - Raffaele Perego, ISTI-CNR Pisa, IT
-- Pengjie Ren, University of Amsterdam, NL
-- Estaban Andres Rissola, University of Lugano, CH
-- Rishiraj Saha Roy, MPII Saarbruecken, DE
-- Mark Sanderson, RMIT Melbourne, AU
 - Fabrizio Silvestri, Sapienza University of Rome, IT
 - Damiano Spina, RMIT Melbourne, AU
-- Nicola Tonellotto, University of Pisa, IT
-- Johanne Trippas, University of Melbourne, AU
+- Leila	Tavakoli, RMIT University, AU
+- Johanne Trippas, RMIT University, AU
 - Hamed Zamani, UMass Amherst, USA
-- Jie Zou, University of Amsterdam, NL
+
