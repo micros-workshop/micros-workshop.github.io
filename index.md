@@ -47,7 +47,7 @@ Follow us on Twitter: [@microsworkshop](https://twitter.com/microsworkshop)
 
 Time zone: Anywhere on Earth (AoE)
 
-- August 15, 2022: Paper submission deadline
+- <b>September 4, 2022: Paper submission deadline (extended) </b>
 - September 15, 2022: Paper acceptance notification
 - <b>October 21, 2022: Workshop date</b>
 
@@ -116,7 +116,7 @@ The MICROS program is available [here](pubs/MICROS_Workshop_Program.pdf)
 
 ### Submissions
 
-Papers must be submitted by **August 15, 2022 (23:59 AoE)** via EasyChair ([Submission Link](https://easychair.org/conferences/?conf=micros2022)).
+Papers must be submitted by **(extended deadline) September 4, 2022 (23:59 AoE)** via EasyChair ([Submission Link](https://easychair.org/conferences/?conf=micros2022)).
 
 Submitted papers should be in the ACM two-column conference format. The workshop has a **single-blind** reviewing process, so the submissions can include the name and affiliations of authors.
  
