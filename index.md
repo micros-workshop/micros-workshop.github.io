@@ -51,31 +51,19 @@ Time zone: Anywhere on Earth (AoE)
 - September 15, 2022: Paper acceptance notification
 - <b>October 21, 2022: Workshop date</b>
 
-<!-- ### Registration information
+### Registration information
 
-Registration: The authors of **workshop papers** can use the **"Free registration (0 EUR registration fee)"** for attending ECIR 2021.
+**News:** The CIKM's OC has decided that each accepted paper must have **at least one author with "in-person workshop registration ($200)"**, even if all the authors will only attend virtually. 
 
-Please follow ECIR registration instructions [here](https://www.ecir2021.eu/registration/) 
+For more information, plase visit the [conference website](https://www.cikm2022.org/)
 
-The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
-
-**Free registrations close on March 25, 2021.** 
-
-**Very important:** Note that **one registration (paid or free) is required for participating in ECIR 2021, so free registration is not the same as no registration.** 
-
-**Very important:** Notice that in case you have also a **non-workshop paper**, and no other co-authors have registered with a paid registration for it, you'll have to register with a **paid registration for that paper by Feb. 5, 2021**.
-
-
+<!--
 ### Accepted Papers
-- Tom Lotze, Stefan Klut, Mohammad Aliannejadi and Evangelos Kanoulas. _"Ranking Clarifying Questions Based on Predicted User Engagement"_  -- [download PDF](pubs/Lotze_MICROS2021.pdf) --
-
-- Maddalen Lopez de Lacalle, Xabier Saralegi and Inhar Lopez. _"Reducing annotation effort for Cross-lingual Transfer Learning: The case of NLU for Basque"_  -- [download PDF](pubs/Lopez_MICROS2021.pdf) --
-
-- Abhishek Kaushik and Gareth Jones. _"A Conceptual Framework for Implicit Evaluation of Conversational Search Interfaces"_ -- [download PDF](pubs/Kaushik_MICROS2021.pdf) --
-
-- Nikolaos Kondylidis, Jie Zou and Evangelos Kanoulas. _"Category Aware Explainable Conversational Recommendation for Cold-Start Setting"_ -- [download PDF](pubs/Kondylidis_MICROS2021.pdf) --
+- Authors. _"Title"_  -- [download PDF](link) --
 
 **The final version of accepted papers will be available on this website before the workshop.**
+
+The publication in the CEUR workshop proceedings is optional. 
 --> 
 
 ### Keynote Speakers
@@ -83,32 +71,11 @@ The registration form for you to fill in is [here](https://bit.ly/3oZO41I)
 - Siva Reddy -- [website](https://sivareddy.in)
 
 <!--
-### Keynote Speakers
-- Claudia Hauff _(Delft University of Technology, NL)_ -- [website](https://chauff.github.io/) 
-  
-  Talk title: _"On the analysis and training of neural IR models in the context of conversational search and recommendation"_   
-  
-  Talk slides available [here](https://docs.google.com/presentation/d/e/2PACX-1vRT--7x9Vuu3gLY7s2PHWoEXDTGVrUuPi1CelWIx5IC8NagYJsJveYpBXWP2NbY2GNSgb1a_Dh7CP86/pub?start=false&loop=false&delayms=3000&slide=id.g35f391192_00)
+  Talk title: _"..."_     
+  Talk slides available [here](...)
+--> 
 
-
-- Jian-Yun Nie _(University of Montreal, Canada)_ -- [website](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/) 
-
-  Talk title: _"Goal-oriented search for dialogue and question answering"_ 
-  
-  Talk slides available [here](pubs/Nie_MICROS-2021.pdf)
-  
-- Filip Radlinski _(Google Research, London, UK)_ -- [website](http://www.radlinski.org/) 
-
-  Talk title: _"Natural language and mixed initiative"_
-
-### Panelists 
-- Nicholas Belkin _(Rutgers University, USA)_
-- Claudia Hauff _(Delft University of Technology, NL)_ 
-- Julia Kiseleva _(Microsoft Research, Seattle, USA)_ -- Panel moderator
-- Jian-Yun Nie _(University of Montreal, Canada)_
-- Filip Radlinski _(Google Research, London, UK)_
-- Hamed Zamani _(University of Massachusetts Amherst, USA)_
-
+<!--
 ### Schedule
 
 The MICROS program is available [here](pubs/MICROS_Workshop_Program.pdf)
