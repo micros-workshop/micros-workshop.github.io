@@ -53,9 +53,9 @@ Time zone: Anywhere on Earth (AoE)
 
 ### Registration information
 
-**News:** The CIKM's OC has decided that each accepted paper must have **at least one author with "in-person workshop registration ($200)"**, even if all the authors will only attend virtually. 
+**News:** The CIKM's OC has decided that each accepted paper must have **at least one author with "in-person workshop registration"**, even if all the authors will only attend virtually. 
 
-For more information, plase visit the [conference website](https://www.cikm2022.org/)
+For more information, plase visit the [conference website](https://www.cikm2022.org/) and the [pricing page](https://www.cikm2022.org/pricing)
 
 <!--
 ### Accepted Papers
