@@ -66,9 +66,27 @@ For more information, plase visit the [conference website](https://www.cikm2022.
 The publication in the CEUR workshop proceedings is optional. 
 --> 
 
-### Keynote Speakers
+### Accepted Papers
+- Thomas Beelen, Khiet P. Truong, Roeland Ordelman, Ella Velner, Vanessa Evers and Theo Huibers. _"A Child-Friendly Approach to Spoken Conversational Search	information on submission."_
+  - *Speaker:* Thomas Beelen (virtual presentation)
+
+- Tommaso Di Noia, Francesco M Donini, Dietmar Jannach, Fedelucio Narducci and Claudio Pomo.	_"Towards a theoretical formalization of conversational recommendation."_
+  - *Speaker:*  Claudio Pomo (in-person presentation)
+
+### Keynote Speaker
 
 - Siva Reddy -- [website](https://sivareddy.in)
+
+### Invited Speakers
+- **Andrew Yates**
+  - **Short Bio:** Andrew Yates is an Assistant Professor at the University of Amsterdam, where he focuses on developing content-based neural ranking methods and leveraging them to improve search and downstream tasks. He has co-authored a variety of papers on neural ranking methods as well as a recent book on transformer-based neural methods: "Pretrained Transformers for Text Ranking: BERT and Beyond". Previously, Andrew was a post-doctoral researcher and then senior researcher at the Max Planck Institute for Informatics. Andrew received his Ph.D. in Computer Science from Georgetown University, where he worked on information retrieval and information extraction in the medical domain.
+  - **Title:** _"Zero-shot Query Contextualization for Conversational Search"_ (in-person presentation)
+  - **Abstract:** Current conversational passage retrieval systems cast conversational search into ad-hoc search by using an intermediate query resolution step that places the user’s question in context of the conversation. While the proposed methods have proven effective, they still assume the availability of large-scale question resolution and conversational search datasets. To waive the dependency on the availability of such data, we adapt a pre-trained token-level dense retriever on ad-hoc search data to perform conversational search with no additional fine-tuning. The proposed method allows to contextualize the user question within the conversation history, but restrict the matching only between question and potential answer. Our experiments demonstrate the effectiveness of the proposed approach. We also perform an analysis that provides insights of how contextualization works in the latent space, in essence introducing a bias towards salient terms from the conversation.
+
+- **Hideaki Joko** 
+  - **Short Bio:** Hideaki Joko is a PhD candidate at Radboud University, Netherlands. He is working on entity-oriented conversational search in his PhD research.
+  - **Title:** _"Personal Entity, Concept, and Named Entity Linking in Conversations"_ (in-person presentation)
+  - **Abstract:** Building conversational agents that can have natural and knowledge-grounded interactions with humans requires understanding user utterances. Entity Linking (EL) is an effective and widely used method for understanding natural language text and connecting it to external knowledge. It is, however, shown that existing EL methods developed for annotating documents are suboptimal for conversations, where personal entities (e.g., "my cars") and concepts are essential for understanding user utterances. In this paper, we introduce a collection and a tool for entity linking in conversations. We collect EL annotations for 1327 conversational utterances, consisting of links to named entities, concepts, and personal entities. The dataset is used for training our toolkit for conversational entity linking, CREL. Unlike existing EL methods, CREL is developed to identify both named entities and concepts. It also utilizes coreference resolution techniques to identify personal entities and references to the explicit entity mentions in the conversations. We compare CREL with state-of-the-art techniques and show that it outperforms all existing baselines.
 
 <!--
   Talk title: _"..."_     
