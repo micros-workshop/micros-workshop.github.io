@@ -53,24 +53,16 @@ Time zone: Anywhere on Earth (AoE)
 
 ### Registration information
 
-**News:** The CIKM's OC has decided that each accepted paper must have **at least one author with "in-person workshop registration"**, even if all the authors will only attend virtually. 
+**News:** The CIKM's OC has decided that each accepted paper must have **at least one author with "in-person (non-student) workshop registration"**, even if all the authors will only attend virtually. 
 
-For more information, plase visit the [conference website](https://www.cikm2022.org/) and the [pricing page](https://www.cikm2022.org/pricing)
+For more information, plase visit the [conference website](https://www.cikm2022.org/) and the [pricing page](https://www.cikm2022.org/pricing). Note that the fee is $225 for ACM/SIGWEB/SIGIR members and $300 for non-members.
 
-<!--
-### Accepted Papers
-- Authors. _"Title"_  -- [download PDF](link) --
-
-**The final version of accepted papers will be available on this website before the workshop.**
-
-The publication in the CEUR workshop proceedings is optional. 
---> 
 
 ### Accepted Papers
-- Thomas Beelen, Khiet P. Truong, Roeland Ordelman, Ella Velner, Vanessa Evers and Theo Huibers. _"A Child-Friendly Approach to Spoken Conversational Search	information on submission."_
+- Thomas Beelen, Khiet P. Truong, Roeland Ordelman, Ella Velner, Vanessa Evers and Theo Huibers. <br /> _"A Child-Friendly Approach to Spoken Conversational Search	information on submission."_
   - *Speaker:* Thomas Beelen (virtual presentation)
 
-- Tommaso Di Noia, Francesco M Donini, Dietmar Jannach, Fedelucio Narducci and Claudio Pomo.	_"Towards a theoretical formalization of conversational recommendation."_
+- Tommaso Di Noia, Francesco M Donini, Dietmar Jannach, Fedelucio Narducci and Claudio Pomo.	<br /> _"Towards a theoretical formalization of conversational recommendation."_
   - *Speaker:*  Claudio Pomo (in-person presentation)
 
 ### Keynote Speaker
@@ -88,10 +80,11 @@ The publication in the CEUR workshop proceedings is optional.
   - **Title:** _"Personal Entity, Concept, and Named Entity Linking in Conversations"_ (in-person presentation)
   - **Abstract:** Building conversational agents that can have natural and knowledge-grounded interactions with humans requires understanding user utterances. Entity Linking (EL) is an effective and widely used method for understanding natural language text and connecting it to external knowledge. It is, however, shown that existing EL methods developed for annotating documents are suboptimal for conversations, where personal entities (e.g., "my cars") and concepts are essential for understanding user utterances. In this paper, we introduce a collection and a tool for entity linking in conversations. We collect EL annotations for 1327 conversational utterances, consisting of links to named entities, concepts, and personal entities. The dataset is used for training our toolkit for conversational entity linking, CREL. Unlike existing EL methods, CREL is developed to identify both named entities and concepts. It also utilizes coreference resolution techniques to identify personal entities and references to the explicit entity mentions in the conversations. We compare CREL with state-of-the-art techniques and show that it outperforms all existing baselines.
 
-<!--
-  Talk title: _"..."_     
-  Talk slides available [here](...)
---> 
+- **Ismail Sabei**
+  - **Short Bio:** Ismail Sabei is a Ph.D. candidate from the School of ITEE at The University of Queensland under the supervision of Prof. Guido Zucoon. He received his bachelor's degree from King Abdulaziz University, KSA in Computer Science and master's degrees from Queensland University of Technology in Information Technology. His research interests include Information Retrieval and Search in Chat Conversation.
+  - **Title:** _"SCC -- A Test Collection for Search in Chat Conversations"_
+  - **Abstract:** We present SCC, a test collection for evaluating search in chat conversations. Chat applications such as Slack, WhatsApp and Wechat have become popular communication methods. Typical search requirements in these applications revolve around the task of known item retrieval, i.e. find information that the user has previously experienced in their chats. However, the search capabilities of these chat applications are often very basic. Our collection aims to support new research into building effective methods for chat conversations search. We do so by building a collection with 114 known item retrieval topics for searching over 437,893 Slack chat messages. An important aspect when searching through conversations is the unit of indexing (indexing granularity), e.g., it being a single message vs. an entire conversation. To support researchers to investigate this aspect and its influence on retrieval effectiveness, the collection has been processed with conversation disentanglement methods: these mark cohesive segments in which each conversation consists of messages whose senders interact with each other regarding a specific event or topic. This results in a total of 38,955 multi-participant conversations being contained in the collection. Finally, we also provide a set of baselines with related empirical evaluation, including traditional bag-of-words methods and zero-shot neural methods, at both indexing granularity levels.
+
 
 <!--
 ### Schedule
