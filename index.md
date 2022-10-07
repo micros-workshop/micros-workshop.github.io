@@ -67,7 +67,28 @@ For more information, plase visit the [conference website](https://www.cikm2022.
 
 ### Keynote Speaker
 
-- Siva Reddy -- [website](https://sivareddy.in)
+- **Siva Reddy** 
+  - **Short Bio:** Siva Reddy is an Assistant Professor in the School of Computer
+Science and Linguistics at McGill University. He is a Facebook CIFAR
+AI Chair and a core faculty member of Mila Quebec AI Institute. Before
+McGill, he was a postdoctoral researcher at Stanford University. He
+received his PhD from the University of Edinburgh in 2017, where he
+was a Google PhD Fellow. His research focuses on representation
+learning for language that facilitates systematic generalization,
+reasoning and conversational modeling. He received the 2020
+VentureBeat AI Innovation Award in NLP, and the best paper award at
+EMNLP 2021.
+  - **Title:** _"Improving trust in conversational models through user feedback and knowledge grounding"_ (virtual presentation)
+  - **Abstract:** Rapid advances in language models have enabled
+conversational models to generate fluent and realistic responses.
+However, these responses are often hallucinations rather than the
+truth, thereby impeding the trust of end users. In this talk, I will
+present multiple ways to increase trust: 1) exploiting user
+engagements and feedback to enable answer explanations, 2) grounding
+responses to evidence in documents and 3) setting expectations of
+end-users by revealing the limitations of conversational models. I
+will show these paradigms improve trust, and surprisingly, the
+accuracy of the responses too.
 
 ### Invited Speakers
 - **Andrew Yates**
@@ -86,11 +107,10 @@ For more information, plase visit the [conference website](https://www.cikm2022.
   - **Abstract:** We present SCC, a test collection for evaluating search in chat conversations. Chat applications such as Slack, WhatsApp and Wechat have become popular communication methods. Typical search requirements in these applications revolve around the task of known item retrieval, i.e. find information that the user has previously experienced in their chats. However, the search capabilities of these chat applications are often very basic. Our collection aims to support new research into building effective methods for chat conversations search. We do so by building a collection with 114 known item retrieval topics for searching over 437,893 Slack chat messages. An important aspect when searching through conversations is the unit of indexing (indexing granularity), e.g., it being a single message vs. an entire conversation. To support researchers to investigate this aspect and its influence on retrieval effectiveness, the collection has been processed with conversation disentanglement methods: these mark cohesive segments in which each conversation consists of messages whose senders interact with each other regarding a specific event or topic. This results in a total of 38,955 multi-participant conversations being contained in the collection. Finally, we also provide a set of baselines with related empirical evaluation, including traditional bag-of-words methods and zero-shot neural methods, at both indexing granularity levels.
 
 
-<!--
 ### Schedule
 
-The MICROS program is available [here](pubs/MICROS_Workshop_Program.pdf)
---> 
+The MICROS program is available [here](pubs/MICROS2022_Workshop_Program.pdf)
+
 
 ### Submissions
 
