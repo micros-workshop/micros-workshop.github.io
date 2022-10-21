@@ -78,7 +78,7 @@ learning for language that facilitates systematic generalization,
 reasoning and conversational modeling. He received the 2020
 VentureBeat AI Innovation Award in NLP, and the best paper award at
 EMNLP 2021.
-  - **Title:** _"Improving trust in conversational models through user feedback and knowledge grounding"_ (virtual presentation) [Slides](pubs/Reddy_MICROS2022.pdf)
+  - **Title:** _"Improving trust in conversational models through user feedback and knowledge grounding"_ (virtual presentation) 
   - **Abstract:** Rapid advances in language models have enabled
 conversational models to generate fluent and realistic responses.
 However, these responses are often hallucinations rather than the
@@ -89,11 +89,12 @@ responses to evidence in documents and 3) setting expectations of
 end-users by revealing the limitations of conversational models. I
 will show these paradigms improve trust, and surprisingly, the
 accuracy of the responses too.
+- [Slides](pubs/Reddy_MICROS2022.pdf)
 
 ### Invited Speakers
 - **Andrew Yates**
   - **Short Bio:** Andrew Yates is an Assistant Professor at the University of Amsterdam, where he focuses on developing content-based neural ranking methods and leveraging them to improve search and downstream tasks. He has co-authored a variety of papers on neural ranking methods as well as a recent book on transformer-based neural methods: "Pretrained Transformers for Text Ranking: BERT and Beyond". Previously, Andrew was a post-doctoral researcher and then senior researcher at the Max Planck Institute for Informatics. Andrew received his Ph.D. in Computer Science from Georgetown University, where he worked on information retrieval and information extraction in the medical domain.
-  - **Title:** _"Zero-shot Query Contextualization for Conversational Search"_ (in-person presentation)
+  - **Title:** _"Zero-shot Query Contextualization for Conversational Search"_ (virtual presentation)
   - **Abstract:** Current conversational passage retrieval systems cast conversational search into ad-hoc search by using an intermediate query resolution step that places the user’s question in context of the conversation. While the proposed methods have proven effective, they still assume the availability of large-scale question resolution and conversational search datasets. To waive the dependency on the availability of such data, we adapt a pre-trained token-level dense retriever on ad-hoc search data to perform conversational search with no additional fine-tuning. The proposed method allows to contextualize the user question within the conversation history, but restrict the matching only between question and potential answer. Our experiments demonstrate the effectiveness of the proposed approach. We also perform an analysis that provides insights of how contextualization works in the latent space, in essence introducing a bias towards salient terms from the conversation.
 
 - **Hideaki Joko** 
