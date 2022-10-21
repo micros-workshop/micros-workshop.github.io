@@ -78,7 +78,7 @@ learning for language that facilitates systematic generalization,
 reasoning and conversational modeling. He received the 2020
 VentureBeat AI Innovation Award in NLP, and the best paper award at
 EMNLP 2021.
-  - **Title:** _"Improving trust in conversational models through user feedback and knowledge grounding"_ (virtual presentation)
+  - **Title:** _"Improving trust in conversational models through user feedback and knowledge grounding"_ (virtual presentation) [Slides](pubs/Reddy_MICROS2022.pdf)
   - **Abstract:** Rapid advances in language models have enabled
 conversational models to generate fluent and realistic responses.
 However, these responses are often hallucinations rather than the
