@@ -89,7 +89,7 @@ responses to evidence in documents and 3) setting expectations of
 end-users by revealing the limitations of conversational models. I
 will show these paradigms improve trust, and surprisingly, the
 accuracy of the responses too.
-- [Slides](pubs/Reddy_MICROS2022.pdf)
+  - [Slides](pubs/Reddy_MICROS2022.pdf)
 
 ### Invited Speakers
 - **Andrew Yates**
